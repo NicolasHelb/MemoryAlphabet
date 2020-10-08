@@ -1,0 +1,9 @@
+Malo;password;40
+Richard;test;70
+Noziv;java;5
+user2;;1
+user3;pass;3
+test;45;2
+t;t;12
+to;to;0
+testest;testest;0

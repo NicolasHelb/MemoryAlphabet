@@ -1,0 +1,9 @@
+Malo;20;40
+Richard;1;0
+Noziv;2;5
+user2;1;0
+user3;2;5
+test;3;15
+t;1;0
+to;2;5
+testest;2;5
